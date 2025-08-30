@@ -32,8 +32,9 @@ Current Focus: Hard technicals (low level, system design, ...) with a mix of ML
 
 |Resource|Progress|
 |---|---|
-|[System Design Interview - Alex](https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf)|5/16|
+|[System Design Interview - Alex](https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf)|8/16|
 |[Designing Data-Intensive Applications](https://unidel.edu.ng/focelibrary/books/Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable,%20Scalable,%20and%20Maintainable%20Systems%20by%20Martin%20Kleppmann%20(z-lib.org).pdf)|⬜|
+|[Design Patterns](https://www.javier8a.com/itc/bd1/articulo.pdf)|⬜|
 
 
 <!--
@@ -55,6 +56,7 @@ Current Focus: Hard technicals (low level, system design, ...) with a mix of ML
 |[Kaggle: Intermediate ML](https://www.kaggle.com/learn/intro-to-machine-learning)|2/7|
 |[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)|⬜|
 
+<!--
 ### AI/ML Articles / Videos
 
 |Resource|Progress|
@@ -62,21 +64,30 @@ Current Focus: Hard technicals (low level, system design, ...) with a mix of ML
 |[How I use LLMS - Andrej Karpathy](https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1097s)|✅|
 |[Urgency of Interpretability - Amodei](https://www.darioamodei.com/post/the-urgency-of-interpretability)|✅|
 |[Machines of Loving Grace - Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace)|✅|
+-->
 
 ### Programming Languages / Compilers
 
 |Resource|Progress|
 |---|---|
 |[Crafting Interpreters - Rob Nystrom]()|[JLox](https://github.com/philippark/jlox)|
+|[Programming Language Pragmatics 4th Edition]()|[⬜]|
 
 ### Operating Systems
 
 |Resource|Progress|
 |---|---|
 |[OSTEP - Virtualization](https://pages.cs.wisc.edu/~remzi/OSTEP/)|18/24|
-|[OSTEP - Concurrency](https://pages.cs.wisc.edu/~remzi/OSTEP/)|25/34|
+|[OSTEP - Concurrency](https://pages.cs.wisc.edu/~remzi/OSTEP/)|2/10|
 |[OSTEP - Persistence](https://pages.cs.wisc.edu/~remzi/OSTEP/)|⬜|
 |[OSTEP - Security](https://pages.cs.wisc.edu/~remzi/OSTEP/)|⬜|
 
+### Computer Architecture
 
+|Resource|Progress|
+|---|---|
+|[Computer Architecture: A Quantitative Approach]()|⬜|
+
+<!--
 ## Technical Skills (Libraries/Frameworks/Tools)
+-->

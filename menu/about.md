@@ -17,17 +17,11 @@ Previous swe intern at Google where I worked in the backend of a voice and messa
 
 Previous swe intern at a SAAS startup, where I immediately made lasting impact my first month by developing a tool to automate a weeks-long manual process to seconds. I also was very proactive in this startup and asked for more technical work. This led to me doing full-time swe technical interviews in the middle of my internship to join a separate team working on client-facing tools. I passed the interviews and during the last month of my internship, I spent it working alongside remote full-time swes on a full-stack project where I developed a web page to track document downloads for compliance and security.
 
-Open source developer and a frequent contributor to RCOS (Rensselaer Center for Open Source), my university's open source community.
-
 ## University
 
-I try to give back to the CS community at my university. 
+I try to give back to the CS community at my university through tutoring (was a CS tutor for Computer Science 1 and Data structures), and being part of Upsilon Pi Epsilon, a CS honors society, where I wrote algorithmic problems for a competitive programming contest and conducted resume reviews and mock technical interviews.
 
-I was a computer science tutor for 2 courses at the same time (Computer Science 1 and Data Structures (a notoriously difficult class for freshmen))
-
-I'm part of Upsilon Pi Epsilon, a CS honors society, where I wrote algorithmic problems for a competitive programming contest and conducted resume reviews and mock technical interviews.
-
-I also was a 2024 ICPC contestant. I placed 2nd in my university during the ICPC qualifiers, which allowed me to qualify and compete in the ICPC regionals.
+I also was a 2024 ICPC contestant where I placed 2nd in my university during the ICPC qualifiers, allowing me compete in the ICPC regionals.
 
 I'm also the president of RPI's Chess Club, a Chess.com College Ambassador, and the founder of RPI's first official Chess.com.
 
@@ -37,16 +31,11 @@ Competitive chess player. I like to compete in online and over the board tournam
 
 Artist (I'm actually pretty good at drawing. little known by others.), music producer (well, atleast I was for some time), and language learner (Korean, Spanish). 
 
-I love to self-study. Currently, I'm reading System Design Interview by Alex Xu, Crafting Interpreters by Robert Nystrom, and Operating Systems in Three Easy Pieces.
-
 I'm nowhere close to where I wish to be. So watch me progress through here:
 * [Leetcode](https://leetcode.com/u/philippark271/)
-* [Codeforces](https://codeforces.com/profile/philipdpark)
 * [Kaggle](https://www.kaggle.com/philipdpark)
 * [Self-Study](learning.html)
 * [Chess](https://www.chess.com/member/syntax_sugar)
-* [Art]()
-* [Soundcloud](https://soundcloud.com/philip-park-135739657)
 
 And of course, if you are a recruiter or just someone who is curious:
 
