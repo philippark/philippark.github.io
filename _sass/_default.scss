@@ -1,0 +1,184 @@
+/*
+  Site container
+*/
+
+body {
+  // background-color: grey;
+  // font-family: 'Times New Roman', Times, serif;
+  // font-weight: 500; // Medium thickness
+  // font-size: 0.95rem; // Slightly smaller than default
+  color: black;
+  // background-image: url("../img/white_texture2.jpg");
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 615px;
+  background-color: white;
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+.content-container {
+  margin-bottom: 4rem;
+}
+
+/*48em*/
+
+@media (max-width: $container-responsive-width) {
+  .container {
+    width: 90vw;
+  }
+}
+
+/*
+  Header
+*/
+
+.header {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  margin-bottom: 4rem;
+  font-family: $sans-serif-font-family;
+}
+
+.header a:hover {
+  color:black;
+}
+
+.header-title a {
+  font-size: 2rem;
+  text-decoration: none;
+  color: $body-color;
+}
+
+.header-subtitle {
+  color: $light-gray-color;
+}
+
+/*
+  Menu
+*/
+
+.menu {
+  padding-top: 0.5rem;
+  display: block;
+}
+
+.menu-content {
+  float: left;
+}
+
+.menu-content a {
+  color: $light-gray-color;
+  font-size: 1rem;
+  padding-right: 10px;
+}
+
+.social-icons {
+  float: right;
+}
+
+.social-icons a {
+  color: $light-gray-color;
+  font-size: 1rem;
+}
+
+/* Sub-navigation */
+
+/* This is the container for each main menu item, including the submenu */
+.menu-item-container {
+  position: relative;
+  display: inline-block; /* Aligns the main menu items horizontally */
+}
+
+/* Style for the submenu */
+.submenu {
+  display: none; /* Hide the submenu by default */
+  position: absolute; /* Position it relative to the .menu-item-container */
+  top: 100%; /* Position it below the parent link */
+  left: 0;
+  background-color: white; /* Or a color that fits your theme */
+  // background-color: transparent;
+  // border: 1px solid $extra-light-gray-color; /* Use a variable from main.scss for consistency */
+  border: none;
+  // box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  box-shadow: none;
+  padding: 10px 0;
+  min-width: 150px; /* Adjust as needed */
+  z-index: 1000;
+  list-style: none; /* Removes bullet points */
+  margin: 0;
+  border-radius: 5px;
+}
+
+/* Style for the submenu links */
+.submenu a {
+  padding: 8px 15px;
+  display: block;
+  white-space: nowrap; /* Prevents text from wrapping */
+  color: $body-color; /* Use a variable from main.scss */
+}
+
+.submenu a:hover {
+  background-color: #f4f4f4; /* A light hover effect */
+  color: $link-color; /* Use a variable from main.scss */
+}
+
+/* Show the submenu on hover of the parent container */
+.menu-item-container:hover .submenu {
+  display: block;
+}
+
+@media (max-width: $elements-responsive-width) {
+  .social-icons {
+    float: left;
+    padding-top: 0px;
+  }
+  .menu-content {
+    margin-bottom: 5px;
+  }
+
+  /* Adjust for mobile view, if necessary */
+  .menu-item-container {
+    display: block; /* Stack items vertically on smaller screens */
+  }
+
+  .submenu {
+    position: relative; /* Change to relative positioning for stacking */
+    top: auto;
+    left: auto;
+    border: none;
+    box-shadow: none;
+  }
+}
+
+/*
+  Footer
+*/
+
+.footer {
+  color: $light-gray-color;
+  text-align: center;
+  margin: 2rem;
+}
+
+.footer a {
+  color: $light-gray-color;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: $dark-gray-color;
+}
+
+.footer-description {
+  display: block;
+  margin-top:3px;
+  margin-bottom: 1rem;
+  color: $light-gray-color;
+  font-family: $sans-serif-font-family;
+  font-size:0.8rem;
+}

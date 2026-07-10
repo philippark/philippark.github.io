@@ -1,0 +1,27 @@
+- id: utopiascript
+  name: UtopiaScript
+  tech: "Java"
+  description: "An international auxiliary programming language with a syntax following Esperanto."
+  repo: "https://github.com/philippark/UtopiaScript"
+  # writeup: ""
+  # blog:
+  #  - title: Blog post 1
+  #    url: ""
+  featured: false
+  order: 1
+- id: smolgrad
+  name: SmolGrad
+  tech: "C++, Python"
+  description: "A small autograd engine for neural networks."
+  repo: "https://github.com/philippark/smolgrad"
+  # writeup: ""
+  featured: false
+  order: 2
+- id: monkeydb
+  name: MonkeyDB
+  tech: "C++"
+  description: "An in-memory key-value store"
+  repo: "https://github.com/philippark/monkeydb"
+  # writeup: ""
+  featured: false
+  order: 2

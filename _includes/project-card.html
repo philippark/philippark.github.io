@@ -1,0 +1,10 @@
+<div class="project-card{% if include.project.featured %} featured{% endif %}">
+  <h3 class="project-name"><a href="{{ include.project.repo | default: include.project.writeup | default: '#' }}" rel="noopener">{{ include.project.name }}</a></h3>
+  <div class="project-tech">{{ include.project.tech }}</div>
+  <p class="project-description">{{ include.project.description }}</p>
+  <p class="project-links">
+    {% if include.project.repo %}<a href="{{ include.project.repo }}" rel="noopener">Repo</a>{% endif %}
+    {% if include.project.writeup %} - <a href="{{ include.project.writeup }}">Write-up</a>{% endif %}
+    {% if include.project.blog %}{% for b in include.project.blog %}{% if b.url %} - <a href="{{ b.url }}">{{ b.title }}</a>{% endif %}{% endfor %}{% endif %}
+  </p>
+</div>

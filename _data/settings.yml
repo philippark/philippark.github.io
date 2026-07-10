@@ -1,0 +1,37 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: ''
+
+menu:
+- {name: 'About',   url: 'about.html'}
+- {name: 'Writings', url: 'writing.html'}
+- {name: 'Reading', url: 'reading.html'}
+- {name: 'Projects', url: 'projects.html'}
+- {name: 'Notes', url: 'notes.html'}
+- name: 'Misc'
+  url: 'misc.html'
+  submenu:
+    - {name: "Typos I've Found While Reading", url: 'misc/typos.html'}
+    - {name: "Progress", url: 'misc/progress.html'}
+    - {name: "Contact Me", url: 'misc/contact-me.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'github',     link: 'https://www.github.com/philippark'}
+- {icon: 'linkedin',   link: 'http://www.linkedin.com/in/philipdpark/'}
+- {icon: 'envelope',   link: 'mailto:philippark271@gmail.com'}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+# sharing_button_prompt: 'Feel free to share!'
+
+# related_posts: 'You may also enjoy:'
+
+# post_date_prefix: 'Written on'
