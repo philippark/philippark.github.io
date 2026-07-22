@@ -13,7 +13,7 @@ Professionally:
 I'm interested in backend engineering, computer systems, C++, distributed systems, and AI engineering. 
 
 Personally:
-I'd describe myself as an autodidact, a forever learner and student, an avid reader, and ambitious. I absolutely love a good struggle of solving a problem, whether it's a coding problem, a chess problem, or another mental sport. My childhood dream was to be a mage, because they fought with their brains instead of brawn, they carried huge arcaic books, they had studies and laboratories, were studious and wise. As I grew up, I realized mages were really just scientists! 
+I'd describe myself as an autodidact, a forever learner and student, an avid reader, and ambitious. I absolutely love a good struggle of solving a problem, whether it's a coding problem, a chess problem, or another mental sport. 
 
 In the past I was a 
 - Swe intern @ Google. same team as my full-time. 
@@ -24,7 +24,7 @@ In the past I was a
 - Member of UPE (Cs Honor's Society) - helped review resumes during career fairs, wrote some problems for our university competitive programming contest, etc.
 - Open source developer for RCOS (Rensselaer center for open source) - a pretty well known aspect of my university is our open source community. 
 
-In my free time, I write, jam with my guitar, and read books across fields that I basically never finish. I also like planning, mapping, breaking down, and creating roadmaps of things. 
+In my free time, I write, jam with my guitar, and read. 
 
 Online Profiles:
 
